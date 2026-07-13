@@ -1,0 +1,82 @@
+.nome{
+    font-size:2rem;
+    color: #000000;
+    margin-left: 5rem;
+}
+
+.menu{
+    display:flex;
+    justify-content:space-between;
+}
+
+.funcao{
+   padding-top:0,5rem;
+   padding-bottom:1rem;
+    color: #000000;   
+}
+
+.botao{
+    padding:1rem;
+    background-color:#5840DF;
+    
+}
+
+a:hover button{
+    background-color:#D4CDFF;
+}
+
+.botao1{
+    padding-bottom: 1rem;
+    
+   
+}
+
+
+.botao2{
+    background-color:#7364da;
+    padding:1rem;
+    color:#cfcaf1;
+    margin-left: 5rem;
+
+}
+
+.botao2:hover {
+    background-color: #ded8f8 ;
+    color: white;
+    cursor: pointer;
+}
+
+.fundo{
+    background-color:#a8a1d4;
+    height:4rem;
+    padding: 0px;
+    margin: 0px;
+}
+
+.texto{
+    color:white;
+}
+
+
+.texto1{
+    color:white;
+}
+
+.fundo1{
+    background-color:#9f8efa;
+}
+
+.titulo{
+    padding-top: 3rem;
+    margin-left: 5rem;
+    
+}
+
+.titulo2{
+     padding-bottom: 1rem;
+}
+
+h1{
+    font-size: 35px;
+}
+
