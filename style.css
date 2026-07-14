@@ -27,6 +27,11 @@ a:hover button{
 
 .botao1{
     padding-bottom: 1rem;
+<<<<<<< HEAD
+=======
+    
+   
+>>>>>>> 21e6e7df529ee762080813c43735ef81641d8be2
 }
 
 
@@ -47,6 +52,11 @@ a:hover button{
 .fundo{
     background-color:#d7d3f0;
     height:4rem;
+<<<<<<< HEAD
+=======
+    padding: 0px;
+    margin: 0px;
+>>>>>>> 21e6e7df529ee762080813c43735ef81641d8be2
 }
 
 .texto{
@@ -59,12 +69,20 @@ a:hover button{
 }
 
 .fundo1{
+<<<<<<< HEAD
     background-color:#b8afeb;
+=======
+    background-color:#9f8efa;
+>>>>>>> 21e6e7df529ee762080813c43735ef81641d8be2
 }
 
 .titulo{
     padding-top: 3rem;
     margin-left: 5rem;
+<<<<<<< HEAD
+=======
+    
+>>>>>>> 21e6e7df529ee762080813c43735ef81641d8be2
 }
 
 .titulo2{
@@ -79,6 +97,7 @@ h1{
     background-color: #7364da;
 }
 
+<<<<<<< HEAD
 
 .experiencia{
     padding-top: 2rem;
@@ -93,3 +112,5 @@ h1{
     background-color: #ECE9FD;
     
 }
+=======
+>>>>>>> 21e6e7df529ee762080813c43735ef81641d8be2
